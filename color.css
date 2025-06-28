@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  margin: 0;
+  position: relative;
+  background-color: #f0f0f0;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#buttons {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+button {
+  margin-right: 10px;
+}
